@@ -34,17 +34,17 @@ To contribute:
 If you have any questions, feel free to reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/amrat-merya/)
-- amratamrat2000@gmail.com
+- amratmerya@gmail.com
 
 ## Node class for Linked list problems
 '''java
 class Node{
-int val;
-Node next;
-Node(int val){
-this.val = val;
+  int val;
+  Node next;
+  Node(int val){
+    this.val = val;
+  }
 }
-}
-'''
+
 
 Happy Coding! ✨
