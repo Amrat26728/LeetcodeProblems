@@ -37,7 +37,6 @@ If you have any questions, feel free to reach out:
 - amratmerya@gmail.com
 
 ## Node class for Linked list problems
-'''java
 class Node{
   int val;
   Node next;
@@ -46,5 +45,14 @@ class Node{
   }
 }
 
+## Node class for Tree problems
+class TreeNode{
+  int val;
+  TreeNode left;
+  TreeNode right;
+  TreeNode(int val){
+    this.val = val;
+  }
+}
 
 Happy Coding! ✨
