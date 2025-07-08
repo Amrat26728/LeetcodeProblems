@@ -4,6 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
+
+// problem
+// https://leetcode.com/problems/find-lucky-integer-in-an-array/description/
+
 public class FindLuckyIntegerInArray {
     public static void main(String[] args) {
         int[] arr = {2,2,3,3,3,4,5,5,5,5};
