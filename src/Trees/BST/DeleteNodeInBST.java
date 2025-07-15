@@ -22,7 +22,7 @@ public class DeleteNodeInBST {
         private TreeNode(int val){
             this.val = val;
         }
-    }
+     }
 
     // with O(n) time complexity
     public static TreeNode deleteNode(TreeNode root, int key){
