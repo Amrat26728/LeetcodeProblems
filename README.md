@@ -25,7 +25,7 @@ To contribute:
 2. Clone your fork to your local machine.
 3. Create a new branch (`git checkout -b new-solutions`).
 4. Add your solution (in the appropriate directory).
-5. Commit your changes (`git commit -am 'Add new problem solution'`).
+5. Commit your changes (`git commit -m 'Add new problem solution'`).
 6. Push your changes (`git push origin new-solutions`).
 7. Create a pull request.
 
@@ -34,6 +34,7 @@ To contribute:
 If you have any questions, feel free to reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/amrat-merya/)
+- [LinkedIn](https://leetcode.com/u/amuamrat491/)
 - amratmerya@gmail.com
 
 ## Node class for Linked list problems
