@@ -29,14 +29,6 @@ To contribute:
 6. Push your changes (`git push origin new-solutions`).
 7. Create a pull request.
 
-## Connect with Me
-
-If you have any questions, feel free to reach out:
-
-- [LinkedIn](https://www.linkedin.com/in/amrat-merya/)
-- [LinkedIn](https://leetcode.com/u/amuamrat491/)
-- amratmerya@gmail.com
-
 ## Node class for Linked list problems
 class Node{
   int val;
